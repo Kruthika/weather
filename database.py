@@ -2,7 +2,7 @@
 """
 Created on Wed Sep 09 23:14:57 2015
 
-@author: Kruthika
+@author: Kruthika Potlapally
 """
 
 import sqlite3 as lite
